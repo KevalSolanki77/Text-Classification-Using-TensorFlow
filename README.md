@@ -1,7 +1,4 @@
 # Text-Classification-Using-TensorFlow
-CNN-based sentiment analysis and text classification model using TensorFlow and the IMDB movie review dataset.
-
-# 🎬 IMDB Sentiment Classification with CNN
 
 A text classification model that predicts whether a movie review is **positive or negative**, trained on the IMDB dataset using a 1D Convolutional Neural Network in TensorFlow/Keras.
 
