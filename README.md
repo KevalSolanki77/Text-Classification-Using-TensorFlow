@@ -27,3 +27,9 @@ The project uses the IMDB movie reviews dataset provided by TensorFlow/Keras.
 - GlobalMaxPooling1D
 - Dense Layers
 - Sigmoid Output Layer
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/text-classification-cnn.git
+cd Text-Classification-Using-TensorFlow
